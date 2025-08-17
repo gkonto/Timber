@@ -8,6 +8,9 @@ The template starts out very basic, but might receive additional features over t
 - Basic CMake script to build your project and link SFML on any operating system
 - Basic [GitHub Actions](https://github.com/features/actions) script for all major platforms
 
+## Personal Notes
+Does not work on all resolutions. I assume that the screen resolution is 1920x1080 or higher.
+
 ## How to Use
 
 1. Install [Git](https://git-scm.com/downloads) and [CMake](https://cmake.org/download/). Use your system's package manager if available.
